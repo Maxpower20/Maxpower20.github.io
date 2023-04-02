@@ -5,10 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bab3295f-9708-4be8-b9a6-f590512596bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bride-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/date.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gal1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gal10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gal11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gal12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gal2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gal3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gal4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gal5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gal6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gal7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gal8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gal9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/newyear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/paint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tantar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/travel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/zahs.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bride-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery-9.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/simplyCountdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/simplyCountdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +76,7 @@
   "keyToString": {
     "TF_FMT": "false",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/maksymshpak/project/self/Maxpower20.github.io",
+    "last_opened_file_path": "/Users/maksymshpak/project/self/Maxpower20.github.io/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,6 +85,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
     </key>
@@ -64,7 +101,8 @@
       <option name="presentableId" value="Default" />
       <updated>1675634304920</updated>
       <workItem from="1675634306437" duration="1112000" />
-      <workItem from="1678543773830" duration="7540000" />
+      <workItem from="1678543773830" duration="9622000" />
+      <workItem from="1680433885247" duration="6851000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1675634377438</created>
@@ -115,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678550490954</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="first">
+      <created>1678551975608</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678551975608</updated>
+    </task>
+    <task id="LOCAL-00009" summary="first">
+      <created>1678552464119</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678552464119</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
